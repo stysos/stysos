@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @stysos
-- 👀 I’m interested in ... AI and Data Science using Python!
-- 🌱 I’m currently learning ... AI algorithms with great interest in MLPs!!
-- 💞️ I’m looking to collaborate on ... Any AI related projects!
-- 📫 How to reach me ...  @samtysoon
+- 👀 I’m interested in ... Python, AI and Data Science
+- 💞️ I’m looking to collaborate on anything Python!
+- 📫 How to reach me @samtysoon
 
 <!---
 stysos/stysos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
