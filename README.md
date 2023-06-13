@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stysos
 - 👀 I’m interested in ... Python, AI and Data Science
 - 💞️ I’m looking to collaborate on anything Python!
-- 📫 How to reach me @samtysoon
+- 📫 How to reach me @stysoos on Twitter!
 
 <!---
 stysos/stysos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
