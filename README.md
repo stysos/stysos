@@ -1,6 +1,6 @@
 Hi! I'm Sam.
 
-  I’m interested in ... Python, C++ and Rust!
+  I’m interested in Python, C++ and Rust!
   Looking to become the best I can be.
 
 <!---
