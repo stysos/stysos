@@ -1,7 +1,8 @@
 Hi! I'm Sam.
 
-  I’m interested in Python, C++ and Rust!
-  Looking to become the best I can be.
+I'm a software engineer primarily experienced with Python and C++.
+
+Mess around Rust and Go in my spare time!
 
 <!---
 stysos/stysos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
